@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to David's ICS3U project page!
 
 You can use the [editor on GitHub](https://github.com/David2439/David2439.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
