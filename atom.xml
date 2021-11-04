@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://David2439.github.io</id>
     <title>Project</title>
-    <updated>2021-11-04T14:38:09.007Z</updated>
+    <updated>2021-11-04T15:02:37.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://David2439.github.io"/>
     <link rel="self" href="https://David2439.github.io/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://David2439.github.io/images/avatar.png</logo>
     <icon>https://David2439.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Project</rights>
+    <entry>
+        <title type="html"><![CDATA[Picture]]></title>
+        <id>https://David2439.github.io/post/picture/</id>
+        <link href="https://David2439.github.io/post/picture/">
+        </link>
+        <updated>2021-11-02T02:38:23.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>Here are some pictures about living creatures for users to download.</strong></p>
+<h1 id="most-categories">Most Categories</h1>
+<p>Unsplash(https://unsplash.com)<br>
+<img src="https://David2439.github.io/post-images/1636038064030.PNG" alt="" loading="lazy"><br>
+#Color Arrangement<br>
+Pixabay(https://pixabay.com/photos/)<br>
+<img src="https://David2439.github.io/post-images/1636038102445.PNG" alt="" loading="lazy"><br>
+#Creativity<br>
+Gratisography(https://gratisography.com)<br>
+<img src="https://David2439.github.io/post-images/1636038140600.PNG" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://David2439.github.io/post/hello-gridea/</id>
