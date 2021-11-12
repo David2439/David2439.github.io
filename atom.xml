@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://David2439.github.io</id>
     <title>Project</title>
-    <updated>2021-11-12T15:42:13.757Z</updated>
+    <updated>2021-11-12T15:59:24.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://David2439.github.io"/>
     <link rel="self" href="https://David2439.github.io/atom.xml"/>
@@ -24,7 +24,7 @@
         <id>https://David2439.github.io/post/video sources/</id>
         <link href="https://David2439.github.io/post/video sources/">
         </link>
-        <updated>2021-11-03T15:42:45.000Z</updated>
+        <updated>2021-11-03T03:42:45.000Z</updated>
         <content type="html"><![CDATA[<p><strong>Here are some videos about living creatures for users to download.</strong></p>
 <h1 id="free-for-commercial-use">Free for commercial use</h1>
 <p>Pexels Videos(videos.pexels.com/)<br>
@@ -45,7 +45,7 @@ Videovo(http://www.videvo.net/)<br>
         <id>https://David2439.github.io/post/picture/</id>
         <link href="https://David2439.github.io/post/picture/">
         </link>
-        <updated>2021-11-01T02:38:23.000Z</updated>
+        <updated>2021-10-31T14:38:23.000Z</updated>
         <content type="html"><![CDATA[<p><strong>Here are some pictures about living creatures for users to download.</strong></p>
 <h1 id="most-categories">Most Categories</h1>
 <p>Unsplash(https://unsplash.com)<br>
@@ -55,39 +55,10 @@ Pixabay(https://pixabay.com/photos/)<br>
 <img src="https://David2439.github.io/post-images/1636038102445.PNG" alt="" loading="lazy"><br>
 #Creativity<br>
 Gratisography(https://gratisography.com)<br>
-<img src="https://David2439.github.io/post-images/1636038140600.PNG" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://David2439.github.io/post/hello-gridea/</id>
-        <link href="https://David2439.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+<img src="https://David2439.github.io/post-images/1636038140600.PNG" alt="" loading="lazy"><br>
+#Illustration<br>
+Mixkit(https://mixkit.co/art/relationships/)<br>
+<img src="https://David2439.github.io/post-images/1636732740931.PNG" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
