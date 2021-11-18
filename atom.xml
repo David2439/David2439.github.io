@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://David2439.github.io</id>
     <title>Project</title>
-    <updated>2021-11-16T16:15:51.332Z</updated>
+    <updated>2021-11-18T15:53:37.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://David2439.github.io"/>
     <link rel="self" href="https://David2439.github.io/atom.xml"/>
@@ -15,8 +15,22 @@
         <id>https://David2439.github.io/post/sample-videos/</id>
         <link href="https://David2439.github.io/post/sample-videos/">
         </link>
-        <updated>2021-11-16T03:14:41.000Z</updated>
-        <content type="html"><![CDATA[<p>a</p>
+        <updated>2021-11-15T01:14:41.000Z</updated>
+        <content type="html"><![CDATA[<p>Watering the plant</p>
+<p>(Used for projects about being environmental-friendly or to have a green life)</p>
+<figure data-type="image" tabindex="1"><img src="https://David2439.github.io/post-images/1637248556614.gif" alt="" loading="lazy"></figure>
+<p>Glacier sliding</p>
+<p>(Used for projects about climate change, global warming, or only building a serious and epic atomosphere)</p>
+<figure data-type="image" tabindex="2"><img src="https://David2439.github.io/post-images/1637249460801.gif" alt="" loading="lazy"></figure>
+<p>Colorful lines shining</p>
+<p>(For interluding or introducing a new topic. Good for attracting audience attention)</p>
+<figure data-type="image" tabindex="3"><img src="https://David2439.github.io/post-images/1637249472849.gif" alt="" loading="lazy"></figure>
+<p>Stars moving</p>
+<p>(For interluding or introducing a new topic. Good for attracting audience attention)</p>
+<figure data-type="image" tabindex="4"><img src="https://David2439.github.io/post-images/1637249487333.gif" alt="" loading="lazy"></figure>
+<p>Counting down</p>
+<p>(Can be used for attracting people's attention and shows an important topic or bring suspense to audience)</p>
+<figure data-type="image" tabindex="5"><img src="https://David2439.github.io/post-images/1637249491467.gif" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
@@ -33,7 +47,7 @@
         <id>https://David2439.github.io/post/video sources/</id>
         <link href="https://David2439.github.io/post/video sources/">
         </link>
-        <updated>2021-11-02T15:42:45.000Z</updated>
+        <updated>2021-11-02T03:42:45.000Z</updated>
         <content type="html"><![CDATA[<p><strong>Here are some videos about living creatures for users to download.</strong></p>
 <h1 id="free-for-commercial-use">Free for commercial use</h1>
 <p>Pexels Videos(http://videos.pexels.com/)<br>
