@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://David2439.github.io</id>
     <title>Project</title>
-    <updated>2021-11-29T14:51:29.772Z</updated>
+    <updated>2021-12-03T03:28:47.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://David2439.github.io"/>
     <link rel="self" href="https://David2439.github.io/atom.xml"/>
@@ -10,6 +10,25 @@
     <logo>https://David2439.github.io/images/avatar.png</logo>
     <icon>https://David2439.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Project</rights>
+    <entry>
+        <title type="html"><![CDATA[LIA STEM Project]]></title>
+        <id>https://David2439.github.io/post/lia-stem-project/</id>
+        <link href="https://David2439.github.io/post/lia-stem-project/">
+        </link>
+        <updated>2021-12-02T02:26:24.000Z</updated>
+        <content type="html"><![CDATA[<p><em>London International Academy has developed, in agreement with the Ontario Ministry of Education, the STEP program (Steps to English Proficiency).</em></p>
+<p>To support students’ progress in learning English, London International Academy has adopted the STEP program, developed for the Ontario Ministry of Education. The STEP program specifies learning criteria for students’ oral skills, and reading and writing abilities and enables teachers to provide specific descriptive feedback to students, enabling them to progress systematically through the ESL curriculum.</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Random]]></title>
+        <id>https://David2439.github.io/post/random/</id>
+        <link href="https://David2439.github.io/post/random/">
+        </link>
+        <updated>2021-11-29T01:52:41.000Z</updated>
+        <content type="html"><![CDATA[<p>a</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sample Videos]]></title>
         <id>https://David2439.github.io/post/sample-videos/</id>
@@ -38,8 +57,12 @@
         <id>https://David2439.github.io/post/sample-pictures/</id>
         <link href="https://David2439.github.io/post/sample-pictures/">
         </link>
-        <updated>2021-11-05T02:17:28.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://David2439.github.io/post-images/1636122023168.jpg" alt="" loading="lazy"></figure>
+        <updated>2021-11-04T14:17:28.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://David2439.github.io/post-images/1638502086303.jpg" alt="" loading="lazy"><br>
+<img src="https://David2439.github.io/post-images/1636122023168.jpg" alt="" loading="lazy"><br>
+<img src="https://David2439.github.io/post-images/1638502106030.jpg" alt="" loading="lazy"><br>
+<img src="https://David2439.github.io/post-images/1638502114700.jpg" alt="" loading="lazy"><br>
+<img src="https://David2439.github.io/post-images/1638502120699.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
