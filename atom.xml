@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://David2439.github.io</id>
     <title>Project</title>
-    <updated>2021-12-03T04:20:49.490Z</updated>
+    <updated>2021-12-07T15:02:57.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://David2439.github.io"/>
     <link rel="self" href="https://David2439.github.io/atom.xml"/>
@@ -11,11 +11,20 @@
     <icon>https://David2439.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Project</rights>
     <entry>
+        <title type="html"><![CDATA[First Robotic]]></title>
+        <id>https://David2439.github.io/post/first-robotic/</id>
+        <link href="https://David2439.github.io/post/first-robotic/">
+        </link>
+        <updated>2021-12-03T02:20:41.000Z</updated>
+        <content type="html"><![CDATA[<p>waiting to add</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[LIA STEM Project]]></title>
         <id>https://David2439.github.io/post/lia-stem-project/</id>
         <link href="https://David2439.github.io/post/lia-stem-project/">
         </link>
-        <updated>2021-12-01T13:26:24.000Z</updated>
+        <updated>2021-12-01T00:26:24.000Z</updated>
         <content type="html"><![CDATA[<p><em>London International Academy has developed, in agreement with the Ontario Ministry of Education, the STEP program (Steps to English Proficiency).</em></p>
 <p>To support students’ progress in learning English, London International Academy has adopted the STEP program, developed for the Ontario Ministry of Education. The STEP program specifies learning criteria for students’ oral skills, and reading and writing abilities and enables teachers to provide specific descriptive feedback to students, enabling them to progress systematically through the ESL curriculum.</p>
 ]]></content>
@@ -34,7 +43,7 @@
         <id>https://David2439.github.io/post/sample-videos/</id>
         <link href="https://David2439.github.io/post/sample-videos/">
         </link>
-        <updated>2021-11-15T01:14:41.000Z</updated>
+        <updated>2021-11-14T12:14:41.000Z</updated>
         <content type="html"><![CDATA[<p>Watering the plant</p>
 <p>(Used for projects about being environmental-friendly or to have a green life)</p>
 <figure data-type="image" tabindex="1"><img src="https://David2439.github.io/post-images/1637248556614.gif" alt="" loading="lazy"></figure>
@@ -57,10 +66,13 @@
         <id>https://David2439.github.io/post/sample-pictures/</id>
         <link href="https://David2439.github.io/post/sample-pictures/">
         </link>
-        <updated>2021-11-04T14:17:28.000Z</updated>
+        <updated>2021-11-04T02:17:28.000Z</updated>
         <content type="html"><![CDATA[<p><img src="https://David2439.github.io/post-images/1638502086303.jpg" alt="" loading="lazy"><br>
-<img src="https://David2439.github.io/post-images/1636122023168.jpg" alt="" loading="lazy"><br>
-<img src="https://David2439.github.io/post-images/1638502106030.jpg" alt="" loading="lazy"><br>
+Mountains. Beautiful and spectacular. It's fit for background.</p>
+<p><img src="https://David2439.github.io/post-images/1636122023168.jpg" alt="" loading="lazy"><br>
+Some food that seems delicous, which can be used as decoration.</p>
+<p><img src="https://David2439.github.io/post-images/1638502106030.jpg" alt="" loading="lazy"><br>
+A man riding his bike. Can be used to encourage people.<br>
 <img src="https://David2439.github.io/post-images/1638502114700.jpg" alt="" loading="lazy"><br>
 <img src="https://David2439.github.io/post-images/1638502120699.jpg" alt="" loading="lazy"></p>
 ]]></content>
@@ -91,7 +103,7 @@ Videovo(http://www.videvo.net/)<br>
         <id>https://David2439.github.io/post/picture/</id>
         <link href="https://David2439.github.io/post/picture/">
         </link>
-        <updated>2021-10-31T02:38:23.000Z</updated>
+        <updated>2021-10-30T14:38:23.000Z</updated>
         <content type="html"><![CDATA[<p><strong>Here are some pictures about living creatures for users to download.</strong></p>
 <h1 id="most-categories">Most Categories</h1>
 <p>Unsplash(https://unsplash.com)<br>
